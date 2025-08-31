@@ -49,6 +49,6 @@ Seasoned in Java, Spring Boot, MERN, microservices, and AWS. Passionate about so
 ##  🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-prasad-ap)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Samrat07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/aman-prasad-ap/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:dev.aman.prasad@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Aman-Resume.pdf)
