@@ -37,13 +37,18 @@ Seasoned in Java, Spring Boot, MERN, microservices, and AWS. Passionate about so
 
 ---
 
-##  📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=aman-prasad-ap&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-prasad-ap&show_icons=true&rank_icon=github&include_all_commits=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=aman-prasad-ap)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-prasad-ap&layout=compact)
+<p align="center">
+    <a href="https://github.com/aman-prasad-ap">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-prasad-ap&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" alt="Aman's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-prasad-ap&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=procfile" alt="Aman's Top Languages" />
+    </a>
+</p>
 
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=aman-prasad-ap&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aman's GitHub Streak" />
+</p>
 ---
 
 ##  🤝 Let's Connect
