@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Hii!+I+am+Aman+Prasad;Welcome+to+my+GitHub+profile!;You+can+know+more+about+me+below..." alt="Typing SVG" />
+  </a>
+</p>
+
 👋 Hi, I’m Aman Prasad
 
 **Full-Stack Developer | Backend Engineer | Cloud Computing Researcher**
