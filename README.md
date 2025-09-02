@@ -52,3 +52,7 @@ Seasoned in Java, Spring Boot, MERN, microservices, and AWS. Passionate about so
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/aman-prasad-ap/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:dev.aman.prasad@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Aman-Resume.pdf)
+
+## 🔥 GitHub Activity Graph
+
+[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-prasad-ap&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
